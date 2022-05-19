@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "479429042204",
+    "project_id": "room-allocator-71836",
+    "storage_bucket": "room-allocator-71836.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479429042204:android:099ad9fab6f7a84a7c7fd9",
+        "android_client_info": {
+          "package_name": "com.example.room_allocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479429042204-5p28u2a80q2nlhgoktjb9j1vci15g3ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMBE2QWNjnAhpkkv2kPBrJOqt2ICYrmvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479429042204-5p28u2a80q2nlhgoktjb9j1vci15g3ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
